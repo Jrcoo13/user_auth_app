@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623837617707",
+    "project_id": "user-auth-da625",
+    "storage_bucket": "user-auth-da625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623837617707:android:2ee8c19c9629e7b180146e",
+        "android_client_info": {
+          "package_name": "com.example.useraut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnaAhl2E2kdrO3sgBBufGh4_LZPgiAdmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623837617707:android:1aadb72d8615f90c80146e",
+        "android_client_info": {
+          "package_name": "com.example.userauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnaAhl2E2kdrO3sgBBufGh4_LZPgiAdmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
